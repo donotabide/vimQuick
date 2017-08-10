@@ -20,8 +20,8 @@
 
 ----------------------
 
-### Combine previous commands with a number in the beggining to create 
-### more dynamic movement around the text
+''' Combine previous commands with a number in the beggining to create 
+ more dynamic movement around the text'''
 
 1)  b, d
 2)  b
