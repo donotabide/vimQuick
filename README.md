@@ -35,8 +35,19 @@ Example:
 30i- creates 30 "-" 
 ```
 ```
-20iRick creates 20 "Ricks
+20iRick creates 20 "Ricks"
 ```
+
+----------------------
+
+## Find the occurence of a character: f<char>
+## Find a specific occurrence of a characterL <number>f<char>
+
+Example: `5fq` finds the fifth occurrence of "q" in the text
+
+
+----------------------
+
 
 
 | Address (Before)  | Value (Before)  | Address (After) | Value (After) |
