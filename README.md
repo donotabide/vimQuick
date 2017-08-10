@@ -2,21 +2,21 @@
 
 ----------------------
 
-## normal mode: Esc
-## insert mode: i
+## normal mode: `Esc`
+## insert mode: `i`
 
 ----------------------
 
-## Move Left: h
-## Move Right: l
-## Move Up: k
-## Move Down: j
+## Move Left: `h`
+## Move Right: `l`
+## Move Up: `k`
+## Move Down: `j`
 
 ----------------------
 
-## Move to start of next word: w
-## Move to end of word: e
-## Move to beggining of word: b
+## Move to start of next word: `w`
+## Move to end of word: `e`
+## Move to beggining of word: `b`
 
 ----------------------
 
@@ -40,14 +40,14 @@ Example:
 
 ----------------------
 
-## Find the occurence of a character: f<char>
-## Find a specific occurrence of a characterL <number>f<char>
+## Find the occurence of a character: `f<char>`
+## Find a specific occurrence of a characterL: `<number>f<char>`
 
 Example: `5fq` finds the fifth occurrence of "q" in the text
 
 ----------------------
 
-## Find matching parenthesis in text: %
+## Find matching parenthesis in text: `%`
 
 ----------------------
 
@@ -60,6 +60,19 @@ Example: `5fq` finds the fifth occurrence of "q" in the text
 ## To find previous occurence of word under cursor: `#`
 
 ----------------------
+
+## Go to beggining of text file: `gg`
+## Go to end of text file: `G`
+## Go to specific line: `<number>G`
+
+----------------------
+
+## Search for a word in the text: `\<word>`
+## Go to next occurence of word: `n`
+## Go to previous occurrence of word: `N`
+
+----------------------
+
 
 
 
