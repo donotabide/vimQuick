@@ -74,6 +74,8 @@ Example: `5fq` finds the fifth occurrence of "q" in the text
 ----------------------
 
 
+## Insert new line next: `o`
+## Insert new line previously: `O`
 
 
 
