@@ -24,8 +24,14 @@
 Combine previous commands with a number in the beggining 
 to create more dynamic movement around the text
 ```
-### Example: `5w` moves the cursor 5 words forward
 
+Example: `5w` moves the cursor 5 words forward
+----------------------
+
+## Insert repetitions of a word: <number>i<word> 
+
+Example: `30i-` creates 30 "-"
+         `20iRick ` creates 20 "Ricks "
 
 
 | Address (Before)  | Value (Before)  | Address (After) | Value (After) |
