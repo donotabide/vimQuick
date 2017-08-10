@@ -1,15 +1,27 @@
 # vimQuick
 
-
 ----------------------
+
 ## normal mode: Esc
 ## insert mode: i
 
 ----------------------
+
 ## Move Left: h
 ## Move Right: l
-##
+## Move Up: k
+## Move Down: j
 
+----------------------
+
+## Move to start of next word: w
+## Move to end of word: e
+## Move to beggining of word: b
+
+----------------------
+
+### Combine previous commands with a number in the beggining to create 
+### more dynamic movement around the text
 
 1)  b, d
 2)  b
