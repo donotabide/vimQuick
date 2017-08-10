@@ -51,13 +51,13 @@ Example: `5fq` finds the fifth occurrence of "q" in the text
 
 ----------------------
 
-## Go to start of the line: 0
-## Go to end of line: $
+## Go to start of the line: `0`
+## Go to end of line: `$`
 
 ----------------------
 
-## To find next occurence of word under cursor: *
-## To find previous occurence of word under cursor: #
+## To find next occurence of word under cursor: `*`
+## To find previous occurence of word under cursor: `#`
 
 ----------------------
 
