@@ -30,7 +30,7 @@ Example: `5w` moves the cursor 5 words forward
 
 ## Insert repetitions of a word: <number>i<word> 
 
-Example: `30i-` creates 30 "-"
+Example: `30i-` creates 30 "-" \n
          `20iRick ` creates 20 "Ricks "
 
 
